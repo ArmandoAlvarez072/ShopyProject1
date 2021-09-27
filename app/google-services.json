@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "396188035265",
+    "firebase_url": "https://kotlinfirebase-40378-default-rtdb.firebaseio.com",
+    "project_id": "kotlinfirebase-40378",
+    "storage_bucket": "kotlinfirebase-40378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396188035265:android:cc2d2b0df55a5c510e0c40",
+        "android_client_info": {
+          "package_name": "com.example.holafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396188035265-c46t5bnnne36pfv4uv660hd63vg1ujd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfsDCGhNVxEr5Fm2NvcoAdaKR7xAj-ztc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396188035265-c46t5bnnne36pfv4uv660hd63vg1ujd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396188035265:android:a387609280f6d9f90e0c40",
+        "android_client_info": {
+          "package_name": "com.example.shopyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396188035265-c46t5bnnne36pfv4uv660hd63vg1ujd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfsDCGhNVxEr5Fm2NvcoAdaKR7xAj-ztc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396188035265-c46t5bnnne36pfv4uv660hd63vg1ujd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

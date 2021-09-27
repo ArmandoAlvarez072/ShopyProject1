@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GhettoStore</string>
+    <string name="product_create">Crear</string>
+    <string name="product_loading">Preparando…</string>
+    <string name="hint_name">Nombre del producto</string>
+    <string name="hint_description">Descripcion</string>
+    <string name="hint_Quantity">Cantidad</string>
+    <string name="hint_Price">Precio</string>
+    <string name="order_status_ordered">Aprobado</string>
+    <string name="order_status_preparing">Procesado</string>
+    <string name="order_status_sent">Enviado</string>
+    <string name="order_status_delivered">Entregado</string>
+    <string name="order_status_unknown">Desconocido</string>
+    <string name="order_tracker_shippment">Seguir Envío</string>
+    <string name="order_status">Estado: %1$s</string>
+    <string name="order_id">ID: %1$s</string>
+    <string name="order_chat">¿Necesitas Ayuda?</string>
+    <string name="order_title">Hisstorial de compras</string>
+    <string name="order_total_price">Total: %1$.2f USD</string>
+    <string name="hint_status">Estado</string>
+    <string name="chat_title">Soporte</string>
+
+</resources>
